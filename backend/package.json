@@ -1,5 +1,5 @@
 {
-  "name": "projeto",
+  "name": "produtos-backend",
   "version": "1.0.0",
   "description": "API RESTful para cadastro de produtos",
   "main": "server.js",
